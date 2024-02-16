@@ -1,5 +1,3 @@
-# Python-Assignment
-
 # Projects Portfolio for Python Developer Internship
 
 ## Author : Jai Prakash R
